@@ -1,5 +1,5 @@
 # USC vs UCLA neighborhoods
-This project was done for my Stats 140SL midterm (the class is Practice of Statistical Consulting, which I took Fall of 2017, under Professor Vivian Lew).
+This project was done for my Stats 140SL midterm (the class is Practice of Statistical Consulting, which I took Fall of 2017, under Professor Vivian Lew). I earned a 100% on this midterm (median: 97%, mean: 92%).
 
 ## Lessons Learned
 What I learned from this midterm, which was a short 1 hour timed test, were these key components for analyzing data when in a time crunch:
